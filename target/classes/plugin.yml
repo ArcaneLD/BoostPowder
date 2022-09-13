@@ -1,0 +1,22 @@
+name: Boostpowder
+version: '1.0'
+main: fr.arcane.boostpowder.Boostpowder
+api-version: 1.17
+authors: [ Arcane ]
+description: Mode de jeu de Lord
+commands:
+  gamelaunch:
+    description: lance la game
+    permission: boostpowder.launch
+
+  setgameloc:
+    description: set la position de l'arene, une par monde à la fois
+    permission: boostpowder.set
+
+  gamepoint:
+    description: affiche ton nombre de points
+    permission: boostpowder.points
+
+  setplayerpoint:
+    description: édite les points d'un joueur (test)
+    permission: boostpowder.points.set

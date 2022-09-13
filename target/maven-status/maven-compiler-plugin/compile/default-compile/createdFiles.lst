@@ -1,0 +1,15 @@
+fr\arcane\boostpowder\events\HeldItemEvent$3.class
+fr\arcane\boostpowder\events\HeldItemEvent$2.class
+fr\arcane\boostpowder\Boostpowder.class
+fr\arcane\boostpowder\events\HeldItemEvent.class
+fr\arcane\boostpowder\events\HeldItemEvent$1.class
+fr\arcane\boostpowder\events\KillPlayerEvent$2.class
+fr\arcane\boostpowder\utils\PlayerManager.class
+fr\arcane\boostpowder\events\KillPlayerEvent$1.class
+fr\arcane\boostpowder\commands\GameLaunchCommand.class
+fr\arcane\boostpowder\commands\SetGamePointCommand.class
+fr\arcane\boostpowder\commands\GamePointCommand.class
+fr\arcane\boostpowder\events\KillPlayerEvent$3.class
+fr\arcane\boostpowder\events\KillPlayerEvent.class
+fr\arcane\boostpowder\events\ShopEvent.class
+fr\arcane\boostpowder\commands\GameLocCommand.class
